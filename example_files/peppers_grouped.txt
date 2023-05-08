@@ -1,0 +1,10 @@
+Peppers: 15
+Chili Peppers: 8
+
+Output for copying into spreadsheets:
+
+Peppers:
+Chili Peppers:
+
+15
+8

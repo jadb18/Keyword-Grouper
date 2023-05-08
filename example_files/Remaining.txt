@@ -1,0 +1,10 @@
+Thiocyanate: 0.0003
+Iron(III): 0.00005
+
+Output for copying into spreadsheets:
+
+Thiocyanate:
+Iron(III):
+
+0.0003
+0.00005
