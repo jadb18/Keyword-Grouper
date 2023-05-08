@@ -3,7 +3,6 @@
 //  Keyword Grouper
 //
 //  Created by Jad Beydoun on 3/3/19.
-//  Copyright © 2019 Jad Beydoun. All rights reserved.
 //
 
 #include <ctype.h>
